@@ -1,60 +1,72 @@
-# Hi, I'm Aryan Kushwaha 👋
+# Hey, I'm Aryan 👋
 
-### Full Stack Developer | Computer Science Engineering Graduate
+I'm a Computer Science Engineering graduate who enjoys building
+things with code and learning how software works in the real world.
 
-I enjoy building web applications and exploring technologies
-that solve real-world problems. My interests include frontend
-development, full-stack engineering, and mobile application development.
+I started with frontend development, where I enjoyed turning ideas
+into working interfaces. Since then, I've been exploring full-stack
+development and Flutter to build applications that are useful,
+practical, and easy to use.
 
-- 🎓 B.Tech in Computer Science Engineering — VITS, Satna
-- 🌱 Currently improving my full-stack and application development skills
-- 💻 Interested in React, Node.js, Flutter, and software engineering
-- 🚀 Portfolio: [ARYAN.OS Portfolio](https://aryan2004-tech.github.io/aryan-os-portfolio/)
-- 📫 Email: aryankushwaha599@gmail.com
+I like learning by building projects, experimenting with new
+technologies, and figuring out how to solve problems along the way.
+
+### A little about me
+
+- 🎓 B.Tech in Computer Science Engineering from VITS, Satna
+- 💻 Interested in frontend and full-stack development
+- 🌱 Currently improving my skills in React, Node.js, and Flutter
+- 🛠️ I learn best by building projects and working through real problems
+- 🚀 My portfolio: [ARYAN.OS](https://aryan2004-tech.github.io/aryan-os-portfolio/)
+- 📫 Reach me at: aryankushwaha599@gmail.com
 
 ---
 
-## 🛠️ Technical Skills
+## Technologies I work with
 
-**Languages:** JavaScript, Python, HTML, CSS, SQL
-
-**Frontend:** React.js, Tailwind CSS, Bootstrap
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
 
 **Backend:** Node.js, Express.js, PHP
 
 **Databases:** MongoDB, MySQL, SQLite
 
-**Mobile Development:** Flutter, Dart
+**Mobile:** Flutter and Dart
 
 **Tools:** Git, GitHub, VS Code, Postman
 
 ---
 
-## 🚀 Featured Projects
+## Projects I've worked on
 
 ### 🌱 EcoTrack
-A Flutter-based carbon footprint calculator designed to help users
-monitor emissions and encourage sustainable habits.
+A Flutter application focused on carbon footprint tracking.
+I built it to explore how mobile apps can help people understand
+their environmental impact and make more sustainable choices.
 
-- Tech: Flutter, Dart, SQLite
-- [Live Demo](https://aryan2004-tech.github.io/EcoTrack/)
-- [Source Code](https://github.com/Aryan2004-tech/ecotrack)
+- Built with Flutter and Dart
+- Includes carbon tracking, charts, and reporting features
+- [Try the live app](https://aryan2004-tech.github.io/EcoTrack/)
+- [View the source code](https://github.com/Aryan2004-tech/ecotrack)
 
 ### 🌿 HerbalAI
-An AI-powered medicinal plant identification and herbal recommendation
-project.
+An AI-based project focused on identifying medicinal plants
+and exploring herbal recommendations from plant images.
 
-- Tech: Python, PHP, MySQL, HTML, CSS, JavaScript
+Working on this project gave me experience combining web
+development with image classification.
 
 ### 🛒 ShopEase
-A responsive e-commerce website built with frontend web technologies.
-
-- Tech: HTML, CSS, JavaScript
+A simple e-commerce website built with HTML, CSS, and JavaScript.
+It helped me practise frontend development and build a more
+complete website experience.
 
 ---
 
-## 🤝 Connect With Me
+## Let's connect
 
-- [GitHub](https://github.com/Aryan2004-tech)
-- [LinkedIn](https://www.linkedin.com/in/aryan-kushwaha-599bbb30a/)
+I'm always interested in learning from other developers,
+sharing ideas, and exploring opportunities to grow as a developer.
+
+- GitHub: [@Aryan2004-tech](https://github.com/Aryan2004-tech)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/aryan-kushwaha-599bbb30a/)
 - Email: aryankushwaha599@gmail.com
